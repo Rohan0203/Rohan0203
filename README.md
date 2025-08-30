@@ -59,15 +59,10 @@
   <br/><br/>
 
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/lambda.png" height="40" alt="aws lambda logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/000000/amazon-s3.png" height="40" alt="s3 logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-amazon-dynamodb-a-fully-managed-proprietary-no-sql-database-service-logo-color-tal-revivo.png" height="40" alt="dynamodb logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-cognito.png" height="40" alt="cognito logo" />
+  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
+  ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
+  ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge)
+  ![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-DD344C?logo=amazoncognito&logoColor=white&style=for-the-badge)
 </div>
 
 ###
@@ -77,8 +72,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan0203&show_icons=true&theme=radical" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan0203&layout=compact&theme=radical" height="160" alt="languages graph" />
 </div>
 
 ###
